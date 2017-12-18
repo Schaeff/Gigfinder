@@ -1,0 +1,23 @@
+export const SEARCH = 'SEARCH'
+
+export const SEARCH_RESULTS = 'SEARCH_RESULTS'
+
+export const FETCH_GIGS = 'FETCH_GIGS'
+
+export const FETCH_GIGS_RESULTS = 'FETCH_GIGS_RESULTS'
+
+export const FETCH_GIG = 'FETCH_GIG'
+
+export const FETCH_GIG_RESULTS = 'FETCH_GIG_RESULTS'
+
+export const HOLD_GIG = 'HOLD_GIG'
+
+export const RELEASE_GIG = 'RELEASE_GIG'
+
+export const FETCH_PLAYLIST = 'FETCH_PLAYLIST'
+
+export const FETCH_PLAYLIST_RESULTS = 'FETCH_PLAYLIST_RESULTS'
+
+export const SOUNDS_LOADED = 'SOUNDS_LOADED'
+
+export const SOUNDS_LOADING = 'SOUNDS_LOADING'
